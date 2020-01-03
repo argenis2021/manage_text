@@ -1,2 +1,2 @@
 # manage_text
-Manipulate text
+Manipulate text with python 3
